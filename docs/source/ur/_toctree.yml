@@ -1,0 +1,8 @@
+- sections:
+  - local: index
+    title: Transformers
+  - local: quicktour
+    title: فوری آغاز
+  - local: installation
+    title: تنصیب
+  title: آغاز کریں

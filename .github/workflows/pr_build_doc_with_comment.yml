@@ -127,7 +127,7 @@ jobs:
       commit_sha: ${{ needs.get-pr-info.outputs.PR_HEAD_SHA }}
       pr_number: ${{ needs.get-pr-number.outputs.PR_NUMBER }}
       package: transformers
-      languages: ar de en es fr hi it ja ko pt zh
+      languages: ar de en es fr hi it ja ko pt ur zh
       python_version: ${{ needs.python-version.outputs.version }}
 
   update_run_status:
